@@ -1,0 +1,5 @@
+genotypename:    /lustre03/project/6032391/GROUP/sc_rnaseq/tensorqtl/data/ATACseq_imputed_390_expression_Fst001_merge_forsmartpca.ped
+snpname:         /lustre03/project/6032391/GROUP/sc_rnaseq/tensorqtl/data/ATACseq_imputed_390_expression_Fst001_merge_forsmartpca.map
+indivname:       /lustre03/project/6032391/GROUP/sc_rnaseq/tensorqtl/data/df_ind_smartpca.txt
+evecoutname:   ATACseq.imputed.eqtl.tensorqtl.evec
+evaloutname:     ATACseq.imputed.eqtl.tensorqtl.eval
